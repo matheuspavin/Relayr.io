@@ -1,3 +1,8 @@
+# PROJECT APPLICATION FOR RELAYR.IO #
+
+Matheus Pavin Pedroso
+pavinmatheus@gmail.com
+
 # TO RUN THE PROJECT #
 
 First run the file npmBuilder.sh
@@ -11,7 +16,7 @@ mocha tests.js
 # 
 
 Any concerns about the solution, please consult the file:
-argumentation_relayr_application.pdf;
+argumentation_relayr_application.pdf
 
 # ATTENTION
 
