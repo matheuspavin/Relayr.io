@@ -8,6 +8,10 @@ After, run the following command:
 
 mocha tests.js
 
+# 
+
+Any concerns about the solution, please consult the file:
+argumentation_relayr_application.pdf;
 
 # ATTENTION
 
