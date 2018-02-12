@@ -1,6 +1,7 @@
 # PROJECT APPLICATION FOR RELAYR.IO #
 
 Matheus Pavin Pedroso
+
 pavinmatheus@gmail.com
 
 # TO RUN THE PROJECT #
@@ -16,6 +17,7 @@ mocha tests.js
 # 
 
 Any concerns about the solution, please consult the file:
+
 argumentation_relayr_application.pdf
 
 # ATTENTION
